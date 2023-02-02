@@ -1,0 +1,14 @@
+img{
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-bottom: auto;
+}
+a{
+    margin-left: 20px;
+    background-color: red;
+    border-style: ridge;
+    font-size: 30px;
+}

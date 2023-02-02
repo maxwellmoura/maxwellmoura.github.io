@@ -1,0 +1,47 @@
+h1 {
+    color:#0d7d32;/*COR DA FONTE HEXADECIMAL*/
+    background-size: auto #141b16;
+    font-weight: bold;
+    text-align: center;
+    background: #666867;
+}
+h2 {
+    color: red;/*COR DA FONTE NOMINAL*/
+    font-size: 20px; /*tamanho da fonte*/
+    font-family: 'Comic Sans MS';
+    text-align: center; /*alinhamento do texto*/ /* left=esqueda/center=meio/right=direita/justify=sublinhado ou justificado*/
+    text-decoration: underline; /* underline no texto*/
+}
+a {
+    color: rgb(245, 245, 247); /*cor da fonte*/ /*EM RGB*/
+    background-color:  black; /*fundo do botão fonte*/
+    font-family: 'Comic Sans MS'; /*familia da fonte*/
+    font-weight: bold /*espessura da fonte (italic) (normal) estilo da fonte*/
+    text-decoration: none; /*sem linhas do texto*/ /*underline = linha embaixo e overline linha em cima*/
+    padding: 10px 20px;/*modifica o espaço interno (Sinpli:top,bottom, right,left)(cima,direita,baixo,esquerda)*/ 
+    border-radius: 20px;/*Uso pra arendondamento de bordas*/ /*Estilos das bordas: solid=Solida/dotted=pontilhada/dashed=tracejada*/
+    /*seguencia de aredondamento (esq-dir-dir-esq)*/
+}
+p {
+    text-align: center;
+    line-height: 30px;/*espasamento das linhas*/
+    font-size: 20px;
+    border-style: solid;    
+}
+span{
+    font-weight: bold;
+    font-style: normal;  /*italic*/
+    background-color: #0d7d32;
+}
+div{
+    background: #666867;/*cod do fundo da pagina*/
+    color: azure;
+}
+img {
+    height: 500px;/*autura da imagem*/
+    width: 500px;/*largura da imagem*/
+    margin-top: 20px;/*distancia da imagem pra com o conteúdo ao topo*/ /*Propiedades da Margens (cima,direita,baixo,esquerda)*/
+    margin-bottom: 20px;/*distancia da imagem pro conteúdo embaixo. Propeierdade Margem (sup.inf.esq.dir)*/
+    margin-left: 20px;/*distancia da imagem pra com 0conteúdo da esquerda*/
+    margin-right: 20px;/*distancia da imagem pra com o conteúdo da direita*/
+}

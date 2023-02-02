@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+div{
+    color: white;
+}
+span{
+    border-left: 5px solid green;
+    border-bottom: 5px solid green;
+}
+img{
+    border: 10px solid white;/*bordas existe varios estilos, utilizando ctrl + espaço conseguimos ver todos os estilos de bordas*/*/
+}

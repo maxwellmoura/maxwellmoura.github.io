@@ -1,0 +1,27 @@
+div{
+    font-family: verdana;
+}
+h1 {
+    color: aqua;
+    font-size: 40px;
+    text-align: center;    
+}
+div {
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+    font-weight: bold;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
+a {
+    text-align: center;
+    background: black;
+    color: white;
+}
+body{
+    line-height: 0px;
+}
