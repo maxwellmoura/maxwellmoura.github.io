@@ -1,0 +1,127 @@
+body{
+    font-family: Fredoka;
+}
+.secao-topo{
+    border-bottom: 1px solid #d5d5d5;
+}
+.topo-marvel{
+    width: 800px;
+    margin: 0 auto;
+}
+.secao-topo p{
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+h1 h2 h3{
+    margin: 0;
+}
+.secao-titulo{
+    min-height: 500px;
+    background-image: url("https://poltronanerd.com.br/wp-content/uploads/2022/04/Doutor-Estranho-no-Multiverso-da-Loucura.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.titulo-subtitulo{
+    text-align: right;
+    padding: 50px 20px;
+    color: azure;
+}
+.secao-imagens{
+    padding: 50px 20px;
+}
+.imagem-conteudo{
+    width: 250px;
+    height: 180px;
+}
+.secao-imagens span{
+    border-left: 1px solid;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.secao-historia{
+    text-align: center;
+}
+.secao-elenco{
+    padding: 50px 0px;
+    background-image: url("https://cinepop.com.br/wp-content/uploads/2022/03/doutor-estranho-no-multiverso-da-loucura-2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-position: bottom;
+}
+.secao-elenco h3{
+    font-size: 36px;
+    background-color: rgb(6, 5, 5);
+    width: 200px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+.secao-ficha{
+    width: 800px;
+    margin: 0 auto;
+}
+.secao-tecnica{
+    padding: 50px 20px;
+}
+.como{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.imagem-conteudoh{
+    width: 250px;
+    height: 180px;
+}
+.secao-tituloh{
+    min-height: 500px;
+    background-image: url("https://lh3.googleusercontent.com/-5nVdphQBOlg/YF504Fgvh5I/AAAAAAAAKiQ/iHufbBHsy98fYqmOGSz_gmNDjMMfc2wbQCLcBGAsYHQ/homem-aranha-3%2B%25281%2529.jpg");
+    background-size: cover;
+    background-position: top;
+}
+.titulo-subtituloh{
+    text-align: right;
+    padding: 50px 20px;
+    color: rgb(255, 255, 255);
+}
+.secao-historiah{
+    text-align: center;
+}
+.secao-imagensh{
+    border-left: 1px solid;
+    padding-left: 10px;
+    font-size: 20px
+}
+.comoh{
+    font-weight: bold;
+    text-decoration: underline;  
+}
+.secao-elencoh{
+    padding: 50px 0px;
+    background-image: url("https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_750,h_375/https://poltronanerd.com.br/wp-content/uploads/2022/05/poltrona-no-way-home-750x375.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-position: bottom;
+}
+.secao-elencoh h3{
+    font-size: 36px;
+    background-color: rgb(6, 5, 5);
+    width: 200px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
+.assistir{
+    font-size: 36px;
+    background-color: rgb(1, 1, 1);
+    color: aqua;
+    width: 200px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+}
