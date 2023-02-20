@@ -125,3 +125,47 @@ h1 h2 h3{
     text-decoration: none;
     padding: 5px;
 }
+.imagem-conteudom{
+    width: 250px;
+    height: 180px;
+}
+.secao-titulom{
+    min-height: 500px;
+    background-image: url("https://jpimg.com.br/uploads/2017/11/mulher-maravilha.jpg");
+    background-size: cover;
+    background-position: top;
+}
+.titulo-subtitulom{
+    text-align: right;
+    padding: 50px 20px;
+    color: rgb(255, 255, 255);
+}
+.secao-historiam{
+    text-align: center;
+}
+.secao-imagensm{
+    border-left: 1px solid;
+    padding-left: 10px;
+    font-size: 20px
+}
+.comom{
+    font-weight: bold;
+    text-decoration: underline;  
+}
+.secao-elencom{
+    padding: 50px 0px;
+    background-image: url("https://gncnews.com.br/img/crop?img=d975ef6fb5b70ab79118940c76fffaf7.jpg&w=800&h=400&fit=crop&fm=jpq&q=90");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-position: top;
+}
+.secao-elencom h3{
+    font-size: 36px;
+    background-color: rgb(128, 32, 32);
+    width: 200px;
+    border-radius: 20px;
+    margin: 0;
+    text-align: center;
+}
