@@ -159,7 +159,7 @@ h1 h2 h3{
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    background-position: top;
+    background-position: bottom;
 }
 .secao-elencom h3{
     font-size: 36px;
